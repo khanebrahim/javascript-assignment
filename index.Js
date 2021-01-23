@@ -84,7 +84,7 @@ function megaFriend(arr) {
     return longest;
 }
 //For Output
-var result = megaFriend(['Ebrahim', 'Fahim', 'Rakib', 'Sudipta', 'Rajesh']);
+var result = megaFriend(['Parbej', 'Siraj', 'Sadi', 'Emon', 'Raihan']);
 console.log(result);
 
 /*End*/
